@@ -1,6 +1,6 @@
 # LIRI
 
-LIRI is a command line application written in Node.js that allows you to quicky look up movie, song and concert information.
+LIRI is a command line application written in Node.js that allows you to quicky look up movie, song and concert information. It uses Spotify for songs, Bands in Town for concerts and OMDB for movie information.
 
 ## Installation
 
