@@ -13,14 +13,27 @@ npm i moment
 npm i axios
 ```
 
-## Usage
-
-```
+## Input
+```bash
 node liri concert-this [band name]
+```
+## Output
 ![](assets/img/concert.png)
+## Input
+```bash
 node liri movie-this [movie title]
+```
+## Output
 ![](assets/img/movie.png)
+## Input
+```bash
 node liri spotify-this-song [song title]
+```
+## Output
 ![](assets/img/song.png)
-node liri do-what-it-says [no parameter required; pulls a random command from random.txt]
+## Input
+```bash
+node lirl do-what-it-says
+```
+## Output
 ![](assets/img/random.png)
