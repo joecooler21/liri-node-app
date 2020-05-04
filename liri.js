@@ -58,7 +58,7 @@ function bandsQuery(arg) {
                     }
                 });
 
-                console.log(`Venue Name: ${concert[0]}\nVenue Location: ${concert[1]}\nDate: ${concert[2]}\n`);
+                console.log(`\nVenue Name: ${concert[0]}\nVenue Location: ${concert[1]}\nDate: ${concert[2]}\n`);
             });
         });
 }
@@ -93,7 +93,7 @@ function spotifyQuery(arg) {
                 e = 'N/A';
             }
         });
-        console.log(`Title: ${song[0]}\nArtist: ${song[1]}\nAlbum: ${song[2]}\nPreview: ${song[3]}`);
+        console.log(`\nTitle: ${song[0]}\nArtist: ${song[1]}\nAlbum: ${song[2]}\nPreview: ${song[3]}`);
     });
     return;
 }
