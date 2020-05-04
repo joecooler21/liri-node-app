@@ -17,6 +17,10 @@ npm i axios
 
 ```
 node liri concert-this [band name]
+![](assets/img/concert.png)
 node liri movie-this [movie title]
+![](assets/img/movie.png)
 node liri spotify-this-song [song title]
+![](assets/img/song.png)
 node liri do-what-it-says [no parameter required; pulls a random command from random.txt]
+![](assets/img/random.png)
